@@ -1,4 +1,4 @@
-module github.com/chenjiesuper/xlsx2md
+module github.com/myhololens/v3xlsx2md
 
 go 1.14
 
